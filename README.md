@@ -1,6 +1,7 @@
 # browser-plugins
 
-This repository exists to write down some nice browser extensions.
+This repository exists to write down some nice browser extensions.  
+**Watch out!** The extensions are certainly available in Chrome but may not be available in other browsers.
 
 ## Vimium 
 Github Url: [Vimium](https://github.com/philc/vimium)  
